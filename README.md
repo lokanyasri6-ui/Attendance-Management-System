@@ -4,6 +4,8 @@
 
 The Attendance Management System is a simple Python application that helps manage student attendance records. Users can add students, mark attendance, and view attendance details through a menu-driven interface.
 
+---
+
 ## ✨ Features
 
 ✅ Add Student Names  
@@ -12,11 +14,13 @@ The Attendance Management System is a simple Python application that helps manag
 ✅ Simple Menu-Driven Interface  
 ✅ Beginner-Friendly Python Project
 
+---
 
 ## 🛠️ Technologies Used
 
 - 🐍 Python 3
-- 
+
+---
 
 ## 📖 Concepts Covered
 
@@ -25,15 +29,22 @@ The Attendance Management System is a simple Python application that helps manag
 - 🔄 Loops
 - 🔀 Conditional Statements
 - ⌨️ User Input and Output
-- 
+
+---
+
 
 ## 🚀 How to Run
 
+--
 ### 1️⃣ Install Python
 Make sure Python 3 is installed on your system.
 
 ### 2️⃣ Save the Program
 Save the code as:
+
+```bash
+attendance.py
+```
 
 ### 3️⃣ Open Terminal/Command Prompt
 
@@ -41,6 +52,7 @@ Navigate to the project folder.
 
 ### 4️⃣ Run the Program
 
+---
 
 ## 🎯 Menu Options
 
@@ -57,10 +69,12 @@ Navigate to the project folder.
 
 ### ❌ Exit
 - Closes the application.
-- 
-  
+
+---
+
 ## 💻 Sample Output
 
+```text
 ===== Attendance Management System =====
 
 1. Add Student
@@ -73,7 +87,9 @@ Enter your choice: 1
 Enter student name: Ram
 
 Student added successfully!
+```
 
+---
 
 ## 🌟 Future Enhancements
 
@@ -84,6 +100,7 @@ Student added successfully!
 🔹 Attendance Percentage Calculation  
 🔹 Generate Reports Automatically
 
+---
 
 ## 🎓 Learning Outcomes
 
@@ -94,4 +111,6 @@ By completing this project, you will learn:
 ✅ Menu-Driven Program Design  
 ✅ User Interaction Handling  
 ✅ Mini Project Development Skills
+
+---
 
